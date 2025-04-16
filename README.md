@@ -17,7 +17,7 @@ This project demonstrates a basic AI search algorithm applied to a classic probl
 * **Human vs. AI Challenge:** Designed for a real-world comparison where a human races against the AI.
 * **Volunteer Control:** A "Start" button initiates the AI, and a "Stop" button allows declaring a human victory.
 
-## Code Description ⚙️
+## Code Description 
 
 * `heapq`: Used for implementing the priority queue in the Best-First Search.
 * `time`: Used for introducing delays to visualize the AI's steps.
