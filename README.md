@@ -1,5 +1,7 @@
 # 🧩 8-Puzzle Challenge: Human vs. AI! 🤖
 
+![Project Image](image.png)
+
 This project features an AI solver (Best-First Search with Manhattan distance) for the classic 8-Puzzle, complete with a Tkinter GUI that visualizes the AI's solution steps in real-time.
 
 ## Overview
