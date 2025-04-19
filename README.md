@@ -1,4 +1,4 @@
-# 🧩 8-Puzzle Challenge: Human vs. AI! 🤖
+# 🧩 8-Puzzle Challenge: Human vs AI! 🤖
 
 <p align="center">
   <img src="image.png" alt="Project Image">
